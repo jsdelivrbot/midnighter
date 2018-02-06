@@ -1,0 +1,8 @@
+{
+  "name": "midnighter",
+  "description": "A minimalistic feathers and vue app for deployment to heroku",
+  "repository": "https://github.com/kigenofkenya/midnighter",
+  "logo": "https://cdn.rawgit.com/heroku/node-js-getting-started/master/public/node.svg",
+  "keywords": ["node", "vue","feathers", "heroku"],
+  "image": "heroku/nodejs"
+}
